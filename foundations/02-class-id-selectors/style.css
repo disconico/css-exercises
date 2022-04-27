@@ -1,0 +1,21 @@
+/* style.css */
+
+.basic {
+    background-color: rgb(255, 182, 193);
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#the-one {
+    color: rgb(27, 27, 182);
+    font-size: 36px;
+}
+
+.basic.cooler {
+    font-size: 24px;
+}
+
+#the-second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font: bold;
+}
